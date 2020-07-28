@@ -1,6 +1,6 @@
 # nice stuff
 
-Mindustry (Android) mod adding nice stuff (cpt. Obvious)
+Mindustry mod adding nice stuff
 
 ## Installation
 
