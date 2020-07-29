@@ -12,11 +12,13 @@ You can install it like any other Mindustry mod, you can do it in several ways:
 - Manually importing it:
   1. download .zip file of this repository:
       - go [here](https://github.com/piernczk/nice-stuff-mod/archive/master.zip), then save the file; or
-      - click on the green "Code" button, then in pop-up click "Download ZIP"
+      - click on the green "Code" button, then in pop-up click "Download ZIP"; or
+      - go [here](https://github.com/piernczk/nice-stuff-mod/releases), then choose latest (or not)
+      version. Under "Assets" click "**Source code** (zip)", then save the file
   2. import mod:
       - using "Import Mod" option in "Mods" menu: choose downloaded .zip file probably located in
       `/storage/emulated/0/Download`
-      - copying it: just copy and paste downloaded file to `\<game_folder>/files/mods`, where
+      - copying it: just copy and paste downloaded file to `<game_folder>/files/mods`, where
       `game_folder` is usually `/storage/emulated/0/Android/data/io.anuke.mindustry`
 
 ## License
